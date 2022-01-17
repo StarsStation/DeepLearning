@@ -1,0 +1,4 @@
+主要包含以下的练习内容
+
+1.Linear model
+2.Gradient decent
