@@ -1,4 +1,17 @@
 主要包含以下的练习内容
 
-1.Linear model
-2.Gradient decent
+01 Linear__model
+
+	构建最基本的线性模型
+
+02 Gradient_decent
+	
+	在01的基础上使用梯度下降及随机梯度下降，引入batch概念
+
+03 Linear——regression
+
+	用pytorch构建基本的线性回归模型，并为之后的网络构建打下基础
+
+04 Logistic_classification
+
+	
