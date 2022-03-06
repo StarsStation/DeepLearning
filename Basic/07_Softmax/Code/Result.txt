@@ -1,0 +1,41 @@
+[1,   300] loss: 2.182
+[1,   600] loss: 0.849
+[1,   900] loss: 0.436
+Accuracy on test set: 89 %
+[2,   300] loss: 0.323
+[2,   600] loss: 0.272
+[2,   900] loss: 0.229
+Accuracy on test set: 94 %
+[3,   300] loss: 0.189
+[3,   600] loss: 0.174
+[3,   900] loss: 0.156
+Accuracy on test set: 96 %
+[4,   300] loss: 0.141
+[4,   600] loss: 0.119
+[4,   900] loss: 0.119
+Accuracy on test set: 96 %
+[5,   300] loss: 0.098
+[5,   600] loss: 0.095
+[5,   900] loss: 0.097
+Accuracy on test set: 97 %
+[6,   300] loss: 0.078
+[6,   600] loss: 0.075
+[6,   900] loss: 0.080
+Accuracy on test set: 98 %
+[7,   300] loss: 0.057
+[7,   600] loss: 0.066
+[7,   900] loss: 0.065
+Accuracy on test set: 98 %
+[8,   300] loss: 0.051
+[8,   600] loss: 0.054
+[8,   900] loss: 0.049
+Accuracy on test set: 98 %
+[9,   300] loss: 0.042
+[9,   600] loss: 0.045
+[9,   900] loss: 0.043
+Accuracy on test set: 99 %
+[10,   300] loss: 0.032
+[10,   600] loss: 0.033
+[10,   900] loss: 0.041
+Accuracy on test set: 99 %
+
